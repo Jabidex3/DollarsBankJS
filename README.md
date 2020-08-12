@@ -1,2 +1,2 @@
-# JavaScriptBank
+# DollarsBankJS
 Banking Application created using JavaScript
